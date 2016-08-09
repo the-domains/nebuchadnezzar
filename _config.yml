@@ -1,4 +1,3 @@
-layout_spectrum: 0.7624656073749065
 typography_spectrum: 0.09591437131166458
 color:
   brandStrength: 0.3136166180483997
@@ -6,9 +5,11 @@ color:
   saturation: 0.8961333518382162
   rhythmicContrast: 0.14387531112879515
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.7624656073749065
 name: Nebuchadnezzar
+description: All things I make.
