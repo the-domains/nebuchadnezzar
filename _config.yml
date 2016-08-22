@@ -1,4 +1,3 @@
-layout_spectrum: 0.4183446611277759
 typography_spectrum: 0.6054945895448327
 color:
   brandStrength: 0.9917666281107813
@@ -11,10 +10,11 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
+layout_spectrum: 0.4183446611277759
 name: Nebuchadnezzar
 navigation:
   - name: My YouTube Channel
     url: 'https://www.youtube.com/channel/UCOleqp98ohqeU5uop6Ez2Qw'
     type: external
 title: Sherpain
-description: All things I make.
+description: The Begining
