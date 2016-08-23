@@ -1,16 +1,16 @@
-typography_spectrum: 0.6054945895448327
+layout_spectrum: 0.6981122682336718
+typography_spectrum: 0.267308788606897
 color:
-  brandStrength: 0.9917666281107813
-  lightness: 0.6039553275331855
-  saturation: 0.36281893751583993
-  rhythmicContrast: 0.5985045828856528
+  brandStrength: 0.5355947290081531
+  lightness: 0.6439713449217379
+  saturation: 0.8664882911834866
+  rhythmicContrast: 0.9124570237472653
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-layout_spectrum: 0.4183446611277759
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Nebuchadnezzar
 navigation:
   - name: My YouTube Channel
